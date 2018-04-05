@@ -1,5 +1,6 @@
 ## 2017 Work
-1. Rhythm Game
+Rhythm Game
+-----------
 * Classic fell Rhythm Game with chiptune sounds and pixel graphics
 > https://youtu.be/m8IRam-6ZqQ
 * Keywords
