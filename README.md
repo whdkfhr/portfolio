@@ -1,6 +1,6 @@
 ## 2017 Work
 
-1. Rhythm Game
+### Rhythm Game
 
 * Classic fell Rhythm Game with chiptune sounds and pixel graphics
 > https://youtu.be/m8IRam-6ZqQ
@@ -14,7 +14,7 @@
 * My part
 > Overall, I developed it with my teammate
 
-2. Movie intro app
+### Movie intro app
 
 * Star Wars Movies intro application
 > https://joarok.herokuapp.com
@@ -24,7 +24,7 @@
 
 ## 2016 Work
 
-1. Graduation Project
+### Graduation Project
 
 * Induction of posture correction system
 <div>
