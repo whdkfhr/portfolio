@@ -14,14 +14,18 @@ Rhythm Game
 * My part
 > Overall, I developed it with my teammate
 
-2. Movie intro app
+Movie intro app
+---------------
 * Star Wars Movies intro application
 > https://joarok.herokuapp.com
 * Used
 > Node.js + ejs + Express
 * * *
-## 2016 Work
-1. Graduation Project
+
+2016 Work
+=========
+Graduation Project
+------------------
 * Induction of posture correction system
 > ![system ui](/Users/joarok/2016.png)
 * Development environment
