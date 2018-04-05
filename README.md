@@ -1,4 +1,5 @@
-## 2017 Work
+2017 Work
+=========
 Rhythm Game
 -----------
 * Classic fell Rhythm Game with chiptune sounds and pixel graphics
