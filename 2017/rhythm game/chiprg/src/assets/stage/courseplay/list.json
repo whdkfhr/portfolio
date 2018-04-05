@@ -1,0 +1,49 @@
+{
+  "max" : 4,
+  "list" : [
+    {
+      "name": "PIU TRANQUILLO",
+      "path": "piutranq",
+      "level": 4,
+      "entry" : [
+        { "title": "16-BEAT CRUEL PUNISHER", "tempo": 128 },
+        { "title": "THE 5TH AXIS", "tempo": 115 },
+        { "title": "NAMELESS HERO", "tempo": 115 },
+        { "title": "OPERATION MUSPELHEIM", "tempo": 128 }
+      ]
+    },
+    {
+      "name": "COURSE1",
+      "path": "course1",
+      "level": 5,
+      "entry": [
+        { "title": "ENTRY0", "tempo": 120 },
+        { "title": "ENTRY1", "tempo": 121 },
+        { "title": "ENTRY2", "tempo": 122 },
+        { "title": "ENTRY3", "tempo": 123 }
+      ]
+    },
+    {
+      "name": "COURSE2",
+      "path": "course2",
+      "level": 6,
+      "entry": [
+        { "title": "ENTRY0", "tempo": 120 },
+        { "title": "ENTRY1", "tempo": 121 },
+        { "title": "ENTRY2", "tempo": 122 },
+        { "title": "ENTRY3", "tempo": 123 }
+      ]
+    },
+    {
+      "name": "COURSE3",
+      "path": "course3",
+      "level": 7,
+      "entry": [
+        { "title": "ENTRY0", "tempo": 120 },
+        { "title": "ENTRY1", "tempo": 121 },
+        { "title": "ENTRY2", "tempo": 122 },
+        { "title": "ENTRY3", "tempo": 123 }
+      ]
+    }
+  ]
+}

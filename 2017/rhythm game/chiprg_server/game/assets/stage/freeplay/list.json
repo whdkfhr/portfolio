@@ -1,0 +1,26 @@
+{
+  "max": 3,
+  "list": [
+    {
+      "name": "16-BEAT CRUEL PUNISHER",
+      "path": "16cp2",
+      "tempo": 128,
+      "level": [4, 7, 11],
+      "stageID": ["16cp_0","16cp_1","16cp_2"]
+    },
+    {
+      "name": "THE 5TH AXIS",
+      "path": "axis",
+      "tempo": 124,
+      "level": [1, 4, 8],
+      "stageID": ["axis_0","axis_1","axis_2"]
+    },
+    {
+      "name": "OPERATION MUSPELHEIM",
+      "path": "muspelheim",
+      "tempo": 120,
+      "level": [3, 6, 10],
+      "stageID": ["muspelheim_0","muspelheim_1","muspelheim_2"]
+    }
+  ]
+}

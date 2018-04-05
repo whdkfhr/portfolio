@@ -1,0 +1,54 @@
+{
+  "stageID" : "muspelheim_0",
+  "genre" : "BIG BEAT",
+  "title" : "OPERATION MUSPELHEIM",
+  "artist": "PIU TRANQUILLO",
+
+  "pattern": "EASY",
+  "songLevel": 3,
+  "songLength": 94,
+  "tempo": 120,
+
+  "judgeTime": {
+    "perfect": 31,
+    "great": 125,
+    "good": 250,
+    "bad": 375,
+    "fail": 250,
+    "miss": 63
+  },
+  "judgeLife": {
+    "perfect": 160,
+    "great": 160,
+    "good": 0,
+    "bad": -400,
+    "fail": -800,
+    "miss": -400
+  },
+  "object": [
+    [
+      {"type": 10, "start": 4000},
+      {"type": 0               }
+    ],
+    [
+      {"type": 10, "start": 5000},
+      {"type": 0               }
+    ],
+    [
+      {"type": 10, "start": 6000},
+      {"type": 0               }
+    ],
+    [
+      {"type": 10, "start": 7000},
+      {"type": 0               }
+    ],
+    [
+      {"type": 10, "start": 8000},
+      {"type": 0               }
+    ],
+    [
+      {"type": 10, "start": 9000},
+      {"type": 0               }
+    ]
+  ]
+}

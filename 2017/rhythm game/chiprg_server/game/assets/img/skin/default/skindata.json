@@ -1,0 +1,113 @@
+{
+  "linePos": [100, 130, 160, 190, 100, 160],
+  "size"   : {
+    "buttonCircle"  : { "x":  28, "y":  31 },
+    "buttonTrigger" : { "x":  80, "y":  40 },
+    "buttonS"       : { "x":  40, "y":  20 },
+    "lineCircle"    : { "x":  30, "y": 150 },
+    "lineTrigger"   : { "x":  60, "y": 150 },
+    "judgeLine"     : { "x": 120, "y":   6 },
+    "noteCircle"    : { "x":  30, "y":   6 },
+    "noteTrigger"   : { "x":  60, "y":   6 },
+    "effectCircle"  : { "x":  60, "y":  60 },
+    "effectTrigger" : { "x": 120, "y":  60 },
+    "judgeFont"     : { "x":  80, "y":  15 },
+    "lifeGague"     : { "x":  10, "y": 100 },
+    "beatMeter"     : { "x":  10, "y": 100 }
+  },
+  "lifeGague" : {
+    "pos"  : { "x": 220, "y":  20}
+  },
+  "beatMeter" : {
+    "pos"  : { "x":  90, "y":  20}
+  },
+  "gear"   : {
+    "pos"  : { "x":   0, "y": -30}
+  },
+  "screen" : {
+    "pos"  : { "x":  90, "y":   0}
+  },
+  "judgeLine":{
+    "pos"  : { "x": 100, "y": 137}
+  },
+  "button1": {
+    "pos"  : { "x":   6, "y": 100},
+    "area" : { "shape":    "circle", "ox": 19, "oy":117, "r": 18 },
+    "sprite": { "default": 0, "pressed": 1}
+  },
+  "button2": {
+    "pos"  : { "x":  46, "y": 120},
+    "area" : { "shape":    "circle", "ox": 59, "oy":137, "r": 18 },
+    "sprite": { "default": 2, "pressed": 3}
+  },
+  "button3": {
+    "pos"  : { "x": 246, "y": 120},
+    "area" : { "shape":    "circle", "ox":259, "oy":137, "r": 18 },
+    "sprite": { "default": 4, "pressed": 5}
+  },
+  "button4": {
+    "pos"  : { "x": 286, "y": 100},
+    "area" : { "shape":    "circle", "ox":299, "oy":117, "r": 18 },
+    "sprite": { "default": 6, "pressed": 7}
+  },
+  "buttonL": {
+    "pos"  : { "x":   0, "y":  20},
+    "area" : { "shape": "rectangle", "x1":  0, "x2": 79, "y1": 20, "y2": 49 },
+    "sprite": { "default": 0, "pressed": 1}
+  },
+  "buttonR": {
+    "pos"  : { "x": 240, "y":  20},
+    "area" : { "shape": "rectangle", "x1":240, "x2":319, "y1": 20, "y2": 49 },
+    "sprite": { "default": 2, "pressed": 3}
+  },
+  "buttonS": {
+    "pos"  : { "x": 255, "y":  65},
+    "area" : { "shape": "rectangle", "x1":255, "x2":294, "y1": 65, "y2": 84 },
+    "sprite": { "default": 0, "pressed": 1}
+  },
+  "line1"  : {
+    "pos"  : { "x": 100, "y":   0},
+    "sprite": { "default": 0, "pressed": 1}
+  },
+  "line2"  : {
+    "pos"  : { "x": 130, "y":   0},
+    "sprite": { "default": 2, "pressed": 3}
+  },
+  "line3"  : {
+    "pos"  : { "x": 160, "y":   0},
+    "sprite": { "default": 2, "pressed": 3}
+  },
+  "line4"  : {
+    "pos"  : { "x": 190, "y":   0},
+    "sprite": { "default": 0, "pressed": 1}
+  },
+  "lineL"  : {
+    "pos"  : { "x": 100, "y":   0},
+    "sprite": { "default": 0, "pressed": 1}
+  },
+  "lineR"  : {
+    "pos"  : { "x": 160, "y":   0},
+    "sprite": { "default": 0, "pressed": 1}
+  },
+  "effect1"  : {
+    "pos"  : { "x":  85, "y":  110}
+  },
+  "effect2"  : {
+    "pos"  : { "x": 115, "y":  110}
+  },
+  "effect3"  : {
+    "pos"  : { "x": 145, "y":  110}
+  },
+  "effect4"  : {
+    "pos"  : { "x": 175, "y":  110}
+  },
+  "effectL"  : {
+    "pos"  : { "x":  70, "y":  110}
+  },
+  "effectR"  : {
+    "pos"  : { "x": 130, "y":  110}
+  },
+  "judgeFont" : {
+    "pos"  : { "x": 120, "y": 100}
+  }
+}
