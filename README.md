@@ -8,9 +8,9 @@
 > Cross-Platform, Pixcel Graphic, Chiptune Sounds
 * Used
 > HTML5 / JS, Phaser Game Framework (http://phaser.io)
-> Node.js + Express
-> MongoDB
-> jQuery Ajax
+> > Node.js + Express
+> > MongoDB
+> > jQuery Ajax
 * My part
 > Overall, I developed it with my teammate
 
