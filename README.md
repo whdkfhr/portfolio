@@ -27,7 +27,7 @@ Movie intro app
 Graduation Project
 ------------------
 * Induction of posture correction system
-> ![system ui](/Users/joarok/2016.png)
+> ![system ui](/Users/joarok/2016.jpg)
 * Development environment
 > Windows 10, Visual Studio 2013, Qt5.7, OpenCV 2.4.13, Kinect V2, Kinect SDK 2.0, USB 3.0
 * My part
