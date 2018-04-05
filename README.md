@@ -9,8 +9,8 @@
 * Used
 > HTML5 / JS, Phaser Game Framework (http://phaser.io)
 > > Node.js + Express
-> > MongoDB
-> > jQuery Ajax
+> > > MongoDB
+> > > > jQuery Ajax
 * My part
 > Overall, I developed it with my teammate
 
