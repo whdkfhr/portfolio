@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>moc;h;cpp</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Generated Files\Debug">
+      <UniqueIdentifier>{e114521f-daa2-47a0-bd6e-4ffa9018cb60}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Generated Files\Release">
+      <UniqueIdentifier>{b2754731-f979-423f-a458-88c99d685177}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Display">
+      <UniqueIdentifier>{f43d86ae-35e6-4ad3-bf74-d71beac65860}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main Thread">
+      <UniqueIdentifier>{29fa0806-15de-4563-861b-234b2196d5fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Alert">
+      <UniqueIdentifier>{903651a4-dd05-42a4-b019-46716370b83a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;cxx;c;def</Extensions>
+    </Filter>
+    <Filter Include="Record">
+      <UniqueIdentifier>{cf160395-ce09-4d2a-a487-06483e64af3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Kinect">
+      <UniqueIdentifier>{2afc7187-91c9-4804-905f-c662bc6f419c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Detection">
+      <UniqueIdentifier>{73bcef63-e6c4-44d5-a20e-b56afc468e91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Exception">
+      <UniqueIdentifier>{6e475735-43e7-4ed3-99e4-346934242ba6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Resource Files\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\qrc_graduation.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_Player.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_Player.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_MainWindow.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_MainWindow.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Main Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="Alert.cpp">
+      <Filter>Alert</Filter>
+    </ClCompile>
+    <ClCompile Include="MainWindow.cpp">
+      <Filter>Display</Filter>
+    </ClCompile>
+    <ClCompile Include="Record.cpp">
+      <Filter>Record</Filter>
+    </ClCompile>
+    <ClCompile Include="kinect\KinectCamData.cpp">
+      <Filter>Kinect</Filter>
+    </ClCompile>
+    <ClCompile Include="kinect\KinectManager.cpp">
+      <Filter>Kinect</Filter>
+    </ClCompile>
+    <ClCompile Include="detection\HandOnFaceDetection.cpp">
+      <Filter>Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="detection\TurtleNeckDetection.cpp">
+      <Filter>Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="detection\TwistedBackDetection.cpp">
+      <Filter>Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="chart.cpp">
+      <Filter>Display</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_chart.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_chart.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="chartView.cpp">
+      <Filter>Display</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="graduation.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="graduation.qrc">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="MainWindow.h">
+      <Filter>Display</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Player.h">
+      <Filter>Main Thread</Filter>
+    </CustomBuild>
+    <CustomBuild Include="chart.h">
+      <Filter>Display</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GeneratedFiles\ui_graduation.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Alert.h">
+      <Filter>Alert</Filter>
+    </ClInclude>
+    <ClInclude Include="Record.h">
+      <Filter>Record</Filter>
+    </ClInclude>
+    <ClInclude Include="kinect\KinectCamData.h">
+      <Filter>Kinect</Filter>
+    </ClInclude>
+    <ClInclude Include="kinect\KinectManager.h">
+      <Filter>Kinect</Filter>
+    </ClInclude>
+    <ClInclude Include="kinect\define.h">
+      <Filter>Kinect</Filter>
+    </ClInclude>
+    <ClInclude Include="detection\HandOnFaceDetection.h">
+      <Filter>Detection</Filter>
+    </ClInclude>
+    <ClInclude Include="detection\TurtleNeckDetection.h">
+      <Filter>Detection</Filter>
+    </ClInclude>
+    <ClInclude Include="detection\TwistedBackDetection.h">
+      <Filter>Detection</Filter>
+    </ClInclude>
+    <ClInclude Include="detection\Detection.h">
+      <Filter>Detection</Filter>
+    </ClInclude>
+    <ClInclude Include="detection\NoDetectedFaceException.h">
+      <Filter>Exception</Filter>
+    </ClInclude>
+    <ClInclude Include="detection\NoDetectedUpperbodyException.h">
+      <Filter>Exception</Filter>
+    </ClInclude>
+    <ClInclude Include="description.h">
+      <Filter>Display</Filter>
+    </ClInclude>
+    <ClInclude Include="chartView.h">
+      <Filter>Display</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
