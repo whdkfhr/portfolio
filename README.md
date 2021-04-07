@@ -1,8 +1,8 @@
-## 2017 Work
+## 2020 Work
 
-### Rhythm Game
+### ALOG
 
-* Classic fell Rhythm Game with chiptune sounds and pixel graphics
+* 커뮤니티형 블로그
 > https://youtu.be/m8IRam-6ZqQ
 * Keywords
 > Cross-Platform, Pixcel Graphic, Chiptune Sounds
