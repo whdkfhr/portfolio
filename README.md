@@ -3,6 +3,10 @@
 ### ALOG
 
 * 커뮤니티형 블로그
+* <div>
+<img src="https://user-images.githubusercontent.com/26809312/113814621-e3fb5300-97ac-11eb-94bd-d68fc9dae703.png" width="40%">
+  </div>
+
 > https://youtu.be/m8IRam-6ZqQ
 * Keywords
 > Cross-Platform, Pixcel Graphic, Chiptune Sounds
