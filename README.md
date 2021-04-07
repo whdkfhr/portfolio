@@ -14,6 +14,24 @@
 * My part
 > Overall, I developed it with my teammate
 
+
+
+## 2017 Work
+
+### Rhythm Game
+
+* Classic fell Rhythm Game with chiptune sounds and pixel graphics
+> https://youtu.be/m8IRam-6ZqQ
+* Keywords
+> Cross-Platform, Pixcel Graphic, Chiptune Sounds
+* Used
+> HTML5 / JS, Phaser Game Framework (http://phaser.io)
+> > Node.js + Express
+> > > MongoDB
+> > > > jQuery Ajax
+* My part
+> Overall, I developed it with my teammate
+
 ### Movie intro app
 
 * Star Wars Movies intro application
