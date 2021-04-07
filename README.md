@@ -6,15 +6,13 @@
 <div>
 <img src="https://user-images.githubusercontent.com/26809312/113816345-afd56180-97af-11eb-8795-a20c0d087cb7.png" width="40%">
 </div>
+
 >https://github.com/whdkfhr/assacamping
 
 * Summary
 > JSP, MVC Model 2 기반의 캠핑용품 쇼핑몰. 회원가입 후 상품을 구매가 가능하며 장바구니, 위시리스트, 상품문의, 상품답변 등의 기능 구현. 그리고 관리자 모드에서 해당 기능들을 관리할 수 있습니다.
 * Used
-> Java 8
-> JSP & Servlet(MVC Model 2)
-> MySQL
-> jQuery, Ajax
+> Java 8, JSP & Servlet(MVC Model 2), MySQL, jQuery, Ajax
 * My part
 > 상품 리뷰, 문의 등록, 장바구니, 위시리스트 기능
 
