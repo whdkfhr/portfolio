@@ -4,7 +4,7 @@
 
 * 캠핑용품 쇼핑몰
 <div>
-<img src="https://user-images.githubusercontent.com/26809312/113814621-e3fb5300-97ac-11eb-94bd-d68fc9dae703.png" width="40%">
+<img src="https://user-images.githubusercontent.com/26809312/113816345-afd56180-97af-11eb-8795-a20c0d087cb7.png" width="40%">
 </div>
 >https://github.com/whdkfhr/assacamping
 * Summary
