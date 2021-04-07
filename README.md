@@ -35,7 +35,7 @@
 * My part
 > Overall, I developed it.
 
-===
+***
 
 ## 2017 Work
 
@@ -60,7 +60,7 @@
 * Used
 > Node.js + ejs + Express
 
-===
+***
 
 ## 2016 Work
 
